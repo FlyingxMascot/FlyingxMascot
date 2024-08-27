@@ -10,4 +10,7 @@ printf("I am hoping to learn as much as I can");
 printf("You can comment if there are any issues");
 ```
 
+- My name
+* is
++ Humayun
 
