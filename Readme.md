@@ -6,7 +6,7 @@
 
 ```
 printf("Hello this is my first github project");
-print("I am hoping to learn as much as I can");
+printf("I am hoping to learn as much as I can");
 printf("You can comment if there are any issues");
 ```
 
